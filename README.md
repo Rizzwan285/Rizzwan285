@@ -9,8 +9,6 @@ If you ever want to build something cool together or need help on a project, fee
 
 Outside of tech, you’ll probably find me playing sports, tinkering with random ideas, or just exploring something new.
 
-**Fun fact:** I forget semicolons but never commitment 🙂
-
 📬 **Reach me at:**  
 **muhamed.rizwan2005@gmail.com**
 
