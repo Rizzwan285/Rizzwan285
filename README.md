@@ -1,18 +1,18 @@
-# Hi 👋, I'm Rizwan
+# Hi 👋, I'm Rizwan  
 
-### A passionate Data Science Engineering student at IIT Palakkad. Feel free to reach out for any Freelance Projects :)
+A Data Science and Engineering student at **IIT Palakkad** who loves building things, breaking things, and learning along the way.
 
-- 🔭 I'm currently working on **MERN stack**
+I’m currently diving into the **MERN stack** and enjoying the process of turning ideas into smooth web experiences. I’m also exploring **React and JavaScript** and slowly getting better at this whole frontend world.
 
-- 🌱 I'm currently learning **React and JavaScript**
+I enjoy working on fun side projects, learning new tools, and collaborating with people who love tech as much as I do.  
+If you ever want to build something cool together or need help on a project, feel free to reach out.
 
-- 👯 I'm looking to collaborate on **Well, Anything...**
+Outside of tech, you’ll probably find me playing sports, tinkering with random ideas, or just exploring something new.
 
-- 🤝 I'm looking for help with **Learning Front-end Development :(**
+**Fun fact:** I forget semicolons but never commitment 🙂
 
-- 📫 How to reach me **muhamed.rizwan2005@gmail.com**
-
-- ⚡ Fun fact **I forget semicolons but never commitment**
+📬 **Reach me at:**  
+**muhamed.rizwan2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
